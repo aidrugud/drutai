@@ -1,5 +1,5 @@
 var networks = {
-"Figure.7": {
+"Figure.5": {
   "format_version" : "1.0",
   "generated_by" : "cytoscape-3.9.1",
   "target_cytoscapejs_version" : "~2.1",
@@ -28262,7 +28262,7 @@ var networks = {
     } ]
   }
 },
-"Figure.8": {
+"Figure.6": {
   "format_version" : "1.0",
   "generated_by" : "cytoscape-3.9.1",
   "target_cytoscapejs_version" : "~2.1",
